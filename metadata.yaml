@@ -1,0 +1,51 @@
+_repo: The-Gentle-Art-of-Making-Enemies_24650
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whistler, James McNeill
+    aliases:
+    - Whistler, J. A. MacNeill (James Abbott MacNeill)
+    - Whistler, J. McNeill (James McNeill)
+    - Whistler, James A. McNeill (James Abbott McNeill)
+    - Whistler, James McNeil
+    - Whistler, James Abbott McNeill
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '26645'
+    url: http://www.gutenberg.org/2009/agents/26645
+    wikipedia: http://en.wikipedia.org/wiki/James_McNeill_Whistler
+description: "\"The Gentle Art of Making Enemies\" is the fourteenth episode and winter\
+  \ finale of the third season, and 58th episode overall from the Fox series Gotham.\
+  \ It is also the last episode to have the subtitle \"Mad City\". The episode was\
+  \ written by Seth Boston and directed by Louis Shaw Milito. It was first broadcast\
+  \ on January 30, 2017.\nIn the episode, with Gotham now falling into darkness, Jerome\
+  \ and his followers begin to wreak havoc across the city while Jerome kidnaps Bruce\
+  \ to finish what he started on the night he died. His plan includes taking him to\
+  \ a carnival where citizens are used as the attractions for his amusement while\
+  \ Gordon, Alfred and Bullock rush to stop him. Meanwhile, Cobblepot sets off to\
+  \ find Nygma but soon discovers in which side Nygma is on. The episode is heavily\
+  \ based on the popular graphic novels The Killing Joke and The Dark Knight Returns\
+  \ on which certain events are applied to the series.\nThe episode received enormous\
+  \ praise from critics, with significant praise towards the nods to the comics, Mazouz's\
+  \ and Monaghan's performance and the ending.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24650'
+  wikidata: Q1217875
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painting'
+- !lcsh 'Whistler, James McNeill, 1834-1903'
+title: The Gentle Art of Making Enemies
+url: http://www.gutenberg.org/ebooks/24650
+wikipedia:
+- https://de.wikipedia.org/wiki/Die_artige_Kunst_sich_Feinde_zu_machen
+- https://en.wikipedia.org/wiki/The_Gentle_Art_of_Making_Enemies
